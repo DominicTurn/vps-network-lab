@@ -81,7 +81,7 @@ This lab serves as my hands-on training ground for learning:
 
 ## Long-Term Goal
 
-To transition into a **Network Administrator** role by the beginning of 2026, with the skills to **secure and maintain systems** in real-world environments. This lab is where the training happens.
+To transition into a **Network Administrator** role at the beginning of 2026, with the skills to **secure and maintain systems** in real-world environments. This lab is where the training happens.
 
 ---
 
