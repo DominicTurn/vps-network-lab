@@ -1,12 +1,14 @@
 # vps-network-lab
 
-# My Journey to a Better Future — For Me and My Grandchildren
+# My Journey to a Better Future
 
 This project is part of my commitment to building a new life through technology.
 
 After returning home from prison on December 15, 2024, I chose to create opportunity through discipline, self-education, and consistency.
 
-My goal is to become a skilled **Network Administrator** with a **cybersecurity toolkit** — capable of protecting systems and hardening networks. Everything in this repository reflects progress, learning, and purpose.
+My goal is to become a skilled **Network Administrator** with a **cybersecurity toolkit** capable of protecting systems and hardening networks.
+
+Everything in this repository reflects progress, perseverance, and purpose.
 
 One step at a time, I’m working toward a better generational outcome for my family.
 
@@ -42,8 +44,8 @@ This lab serves as my hands-on training ground for learning:
 - [x] SSH key authentication configured
 - [x] Root login disabled
 - [x] New non-root user with sudo privileges
-- [ ] Fail2Ban installation and config (in progress)
-- [ ] UFW firewall configured with only necessary ports open
+- [x] Fail2Ban installation and config
+- [x] UFW firewall configured with only necessary ports open
 - [ ] Security updates automated
 - [ ] Audit tools installed (e.g. rkhunter, chkrootkit, auditd)
 
@@ -52,6 +54,7 @@ This lab serves as my hands-on training ground for learning:
 ## Learning Goals
 
 - Strengthen command line fluency (bash, ssh, vim/nano)
+- Being proficient with Linux
 - Practice real server hardening techniques
 - Set up and monitor basic networking tools
 - Build a foundational cybersecurity skill set from scratch
@@ -63,9 +66,9 @@ This lab serves as my hands-on training ground for learning:
 ### Phase 1: VPS Security Basics
 - [x] Secure SSH with keys
 - [x] Remove root access
-- [ ] Configure UFW
-- [ ] Install Fail2Ban
-- [ ] Enable automatic security updates
+- [x] Configure UFW
+- [x] Install Fail2Ban
+- [x] Enable automatic security updates
 
 ### Phase 2: Networking Tools & Monitoring
 - [ ] Set up Nginx or Apache
