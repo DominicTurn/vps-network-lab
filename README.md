@@ -46,8 +46,8 @@ This lab serves as my hands-on training ground for learning:
 - [x] New non-root user with sudo privileges
 - [x] Fail2Ban installation and config
 - [x] UFW firewall configured with only necessary ports open
-- [ ] Security updates automated
-- [ ] Audit tools installed (e.g. rkhunter, chkrootkit, auditd)
+- [x] Security updates automated
+- [x] Audit tools installed (e.g. rkhunter, chkrootkit, auditd)
 
 ---
 
@@ -71,9 +71,9 @@ This lab serves as my hands-on training ground for learning:
 - [x] Enable automatic security updates
 
 ### Phase 2: Networking Tools & Monitoring
-- [ ] Set up Nginx or Apache
-- [ ] Install `netstat`, `iftop`, `tcpdump`, `nmap`
-- [ ] Set up log monitoring and rotation
+- [x] Set up Nginx or Apache
+- [x] Install `netstat`, `iftop`, `tcpdump`, `nmap`
+- [x] Set up log monitoring and rotation
 
 ### Phase 3: Cybersecurity Practice
 - [ ] Deploy basic honeypot (SSHtrap or Cowrie)
@@ -84,7 +84,7 @@ This lab serves as my hands-on training ground for learning:
 
 ## Long-Term Goal
 
-To transition into a **Network Administrator** role at the beginning of 2026, with the skills to **secure and maintain systems** in real-world environments. This lab is where the training happens.
+To transition my skills to **secure and maintain systems** in real-world environments. This lab is where the training happens.
 
 ---
 
