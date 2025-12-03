@@ -1,12 +1,12 @@
-# vps-network-lab
+# Reentry → Reskilling → Reinvention
 
 # My Journey to a Better Future
 
-This project is part of my commitment to building a new life through technology.
+This repository documents my commitment to rebuilding my life through discipline, self-education, and technology.
 
-After returning home from prison on December 15, 2024, I chose to create opportunity through discipline, self-education, and consistency.
+After returning home from prison on December 15, 2024, my technology journey started.
 
-My goal is to become a skilled **Network Administrator** with a **cybersecurity toolkit** capable of protecting systems and hardening networks.
+I’m learning Linux, Networking, Python, and Django, and using those skills to build real projects that showcase growth and capability.
 
 Everything in this repository reflects progress, perseverance, and purpose.
 
