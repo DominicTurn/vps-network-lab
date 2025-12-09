@@ -90,4 +90,4 @@ To transition my skills to **secure and maintain systems** in real-world environ
 
 ## Notes
 
-This is a live repo. As I learn, break things, and build, I’ll update the tools and configurations I use. My journey is just getting started — and I'm documenting it all here.
+This is a live repo. As I learn, break things, and build, I’ll update the tools and configurations I use. My journey is just starting and I'm documenting it all here.
